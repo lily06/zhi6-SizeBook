@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">zhi6-SizeBook</string>
+    <string name="string_name">Name</string>
+    <string name="string_date">Date (yyyy-mm-dd)</string>
+    <string name="string_neck">Neck (circumference in inches)</string>
+    <string name="bust">Bust (circumference in inches)</string>
+    <string name="chest">Chest (circumference in inches)</string>
+    <string name="waist">Waist (circumference in inches)</string>
+    <string name="hip">Hip (circumference in inches)</string>
+    <string name="inseam">Inseam (length in inches)</string>
+    <string name="comment">Comment (textual)</string>
+
+    <!--<string name="total_counts">Total count of records: </string>-->
+    <string name="new_record">New Record</string>
+
+    <string name="save">Save</string>
+    <!--<string name="edit">Edit</string>-->
+    <string name="delete">Delete</string>
 </resources>
